@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="loading_please_wait">Loading...please wait...</string>
+    <string name="please_enter_your_email">Please Enter your email</string>
+    <string name="please_enter_your_password">Please Enter your password</string>
+    <string name="forgotten_password_click_here_to_reset">Forgotten Password? Click here to reset</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="please_reenter_your_password">please reenter your password</string>
+    <string name="please_enter_your_name">please enter your name</string>
+</resources>
